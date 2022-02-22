@@ -11,12 +11,12 @@ I tried 6 ways of supervised training, and I'll explain them one by one below:
 ### Naive_Random_Oversampling
 ![Naive_Random_Oversampling](https://raw.githubusercontent.com/yumik20/Credit_Risk_Analysis/main/Screenshots/1_Naive_Random_Oversampling.png)
 
-Accuracy Score: 64.76%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 61%
-Recall Low Risk: 68%
-F1 High Risk:2%
+Accuracy Score: 64.76%\
+Precision High Risk: 1%\
+Precision Low Risk: 100%\
+Recall High Risk: 61%\
+Recall Low Risk: 68%\
+F1 High Risk:2%\
 F1 Low Risk:81% 
 
 
