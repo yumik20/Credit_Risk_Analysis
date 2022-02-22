@@ -24,12 +24,12 @@ F1 Low Risk:81%
 ### SMOTE_Oversampling
 ![SMOTE_Oversampling](https://raw.githubusercontent.com/yumik20/Credit_Risk_Analysis/main/Screenshots/2_SMOTE_Oversampling.png)
 
-Accuracy Score: 65.14%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 61%
-Recall Low Risk: 69%
-F1 High Risk:2%
+Accuracy Score: 65.14%\
+Precision High Risk: 1%\
+Precision Low Risk: 100%\
+Recall High Risk: 61%\
+Recall Low Risk: 69%\
+F1 High Risk:2%\
 F1 Low Risk:81% 
 
 
@@ -38,12 +38,12 @@ F1 Low Risk:81%
 ![Under_sampling](https://raw.githubusercontent.com/yumik20/Credit_Risk_Analysis/main/Screenshots/3_Under_sampling.png)
 
 
-Accuracy Score: 54.47%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 69%
-Recall Low Risk: 40%
-F1 High Risk:1%
+Accuracy Score: 54.47%\
+Precision High Risk: 1%\
+Precision Low Risk: 100%\
+Recall High Risk: 69%\
+Recall Low Risk: 40%\
+F1 High Risk:1%\
 F1 Low Risk:57% 
 
 
@@ -51,12 +51,12 @@ F1 Low Risk:57%
 ![Combination_Sampling](https://raw.githubusercontent.com/yumik20/Credit_Risk_Analysis/main/Screenshots/4_Combination_Sampling.png)
 
 
-Accuracy Score: 62.04%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 64%
-Recall Low Risk: 60%
-F1 High Riskk:2%
+Accuracy Score: 62.04%\
+Precision High Risk: 1%\
+Precision Low Risk: 100%\
+Recall High Risk: 64%\
+Recall Low Risk: 60%\
+F1 High Risk:2%\
 F1 Low Risk:75% 
 
 
@@ -76,12 +76,12 @@ F1 Low Risk:93%
 ### Easy_Ensemble_AdaBoost_Classifier
 ![Easy_Ensemble_AdaBoost_Classifier](https://raw.githubusercontent.com/yumik20/Credit_Risk_Analysis/main/Screenshots/6_Easy_Ensemble_AdaBoost_Classifier.png)
 
-Accuracy Score: 93.16%
-Precision High Risk: 9%
-Precision Low Risk: 100%
-Recall High Risk: 92%
-Recall Low Risk: 94%
-F1 High Risk:16%
+Accuracy Score: 93.16%\
+Precision High Risk: 9%\
+Precision Low Risk: 100%\
+Recall High Risk: 92%\
+Recall Low Risk: 94%\
+F1 High Risk:16%\
 F1 Low Risk:97% 
 
 
@@ -89,14 +89,14 @@ F1 Low Risk:97%
 Based on the data above, it seems that Easy_Ensemble_AdaBoost_Classifier and Balanced_Random_Forest_Classifier have better training results than the rest of methods for our dataset.
 
 Balanced_Random_Forest_Classifier
-Accuracy Score: 78.85%
-Recall High Risk: 70%
+Accuracy Score: 78.85%\
+Recall High Risk: 70%\
 Recall Low Risk: 87%
 
 
 Easy_Ensemble_AdaBoost_Classifier
-Accuracy Score: 93.16%
-Recall High Risk: 92%
+Accuracy Score: 93.16%\
+Recall High Risk: 92%\
 Recall Low Risk: 94%
 
 
